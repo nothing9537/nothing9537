@@ -3,7 +3,7 @@
 I have 3 years of experience behind me including learning, as well as an up to date and modern front-end development stack. I like to be in the trend of new technologies, to learn new things.
 
 ## 🚀 My technology stack 🚀
-Core Technology Stack: **React, TypeScript, SCSS, Styled Components, Next JS, Redux, Tailwind CSS, HTML, CSS**
+Core Technology Stack: **React, TypeScript, SCSS, Styled Components, Next JS, Redux, Tailwind CSS, HTML, CSS, Redux Toolkit**
 
 I am good at and use the following tools: **Webpack, ViteJS, ESLint, Storybook**
 
@@ -13,4 +13,4 @@ Something about backend: **Express.js, Nest.js, Prisma.js(ORM), TypeORM, PlanetS
 
 Specific tools: **ECharts, Lightweight Charts**
 
-Something general: **Feature Sliced Design (frontend architecture), effective code style and, and module interaction, Clerk.js, Shadcn-ui, Material UI, Ant Design, react-hook-form**
+Something general: **Feature Sliced Design (frontend architecture), effective code style and module interaction, Clerk.js, Shadcn-ui, Material UI, Ant Design, react-hook-form, MobX, Zustand, RTK Query, React Query**
