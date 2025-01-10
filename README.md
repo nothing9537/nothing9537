@@ -1,7 +1,6 @@
 ## 🖐 Hello! 🖐
 
 I am a front-end developer from Ukraine, Kharkiv. 
-I am currently in the USA. 
 I have 3 years of experience behind me including learning, as well as an up to date and modern front-end development stack. I like to be in the trend of new technologies, to learn new things.
 
 ## 🚀 My technology stack 🚀
