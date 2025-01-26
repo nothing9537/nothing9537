@@ -5,14 +5,14 @@ Specializing in building high-quality, scalable applications with a focus on per
 
 
 ## 🚀 My technology stack 🚀
-Core Technology Stack: **React, TypeScript, SCSS, Styled Components, Next JS, Redux, Tailwind CSS, HTML, CSS, Redux Toolkit**
+Core Technology Stack: **React, TypeScript, SCSS, Styled Components, Next JS, Redux, Tailwind CSS, HTML, CSS, Redux Toolkit, Zustand**
 
 I am good at and use the following tools: **Webpack, ViteJS, ESLint, Storybook**
 
-I know how to write tests: **Jest, React testing library, Cypress, Loki js**
+I know how to write tests: **Jest, React testing library, Cypress, Loki.js**
 
-Something about backend: **Express.js, Nest.js, Prisma.js(ORM), TypeORM, PlanetScale, Socket.io, WebSockets**
+Something about backend: **Express.js, Nest.js, Nest.js Microservices, Prisma.js(ORM), TypeORM, MongoDB, Socket.io, WebSockets**
 
 Specific tools: **ECharts, Lightweight Charts**
 
-Something general: **Feature Sliced Design (frontend architecture), effective code style and module interaction, Clerk.js, Shadcn-ui, Material UI, Ant Design, react-hook-form, MobX, Zustand, RTK Query, React Query**
+Something general: **Feature Sliced Design (frontend architecture), JWT Authorization, effective code style and module interaction, performance optimization, problem-solving, Clerk.js, shadcn-ui, Material UI, react-hook-form, RTK Query, React Query**
