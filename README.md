@@ -24,4 +24,4 @@ State management: **Redux/Toolkit, Zustand**
 
 Work with server and requests: **Axios, RTK Query, React Query, Apollo Client, WebSockets**
 
-Something general: **Feature Sliced Design (frontend architecture), JWT Authorization, effective code style and module interaction, performance optimization, problem-solving**
+Something general: **Feature Sliced Design (frontend architecture), JWT Authorization, effective code style and module interaction, performance and application loading optimization, problem-solving**
