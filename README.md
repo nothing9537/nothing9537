@@ -18,9 +18,9 @@ Something about backend: **Express.js, Nest.js, Nest.js Microservices, Prisma(OR
 
 Specific tools: **ECharts, Lightweight Charts, react-hook-form, zod-validation**
 
-I used those UI libraries in my projects: radix-ui, shadcn-ui, Material UI
+I used those UI libraries in my projects: **radix-ui, shadcn-ui, Material UI**
 
-State management: Redux/Toolkit, Zustand
+State management: **Redux/Toolkit, Zustand**
 
 Work with server and requests: Axios, RTK Query, React Query, Apollo Client, WebSockets
 
