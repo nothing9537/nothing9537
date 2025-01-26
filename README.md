@@ -22,6 +22,6 @@ I used those UI libraries in my projects: **radix-ui, shadcn-ui, Material UI**
 
 State management: **Redux/Toolkit, Zustand**
 
-Work with server and requests: Axios, RTK Query, React Query, Apollo Client, WebSockets
+Work with server and requests: **Axios, RTK Query, React Query, Apollo Client, WebSockets**
 
 Something general: **Feature Sliced Design (frontend architecture), JWT Authorization, effective code style and module interaction, performance optimization, problem-solving**
