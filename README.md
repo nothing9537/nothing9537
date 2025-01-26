@@ -15,4 +15,4 @@ Something about backend: **Express.js, Nest.js, Nest.js Microservices, Prisma.js
 
 Specific tools: **ECharts, Lightweight Charts**
 
-Something general: **Feature Sliced Design (frontend architecture), JWT Authorization, effective code style and module interaction, performance optimization, problem-solving, Clerk.js, shadcn-ui, Material UI, react-hook-form, RTK Query, React Query**
+Something general: **Feature Sliced Design (frontend architecture), JWT Authorization, effective code style and module interaction, performance optimization, problem-solving, shadcn-ui, Material UI, react-hook-form, RTK Query, React Query**
