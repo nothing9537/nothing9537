@@ -16,7 +16,7 @@ I know how to write tests: **Jest, React testing library, Cypress, Loki.js**
 
 Something about backend: **Express.js, Nest.js, Nest.js Microservices, Prisma(ORM), TypeORM, MongoDB, Socket.io, WebSockets**
 
-Specific tools: **ECharts, Lightweight Charts, react-hook-form, zod-validation**
+Specific tools: **ECharts, Lightweight Charts, react-hook-form, zod-validation, i18n**
 
 I used those UI libraries in my projects: **radix-ui, shadcn-ui, Material UI**
 
