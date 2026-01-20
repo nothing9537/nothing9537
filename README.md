@@ -36,8 +36,6 @@ I love complex UI problems: editors, scheduling, drag-and-drop workflows, design
 ➡️ Live: https://vmskyi-portfolio.vercel.app  
 ➡️ Repo: https://github.com/nothing9537
 
-> I can share deeper technical details for professional work in interviews.
-
 ---
 
 ## 🛠 Tech stack (core)
