@@ -28,13 +28,13 @@ I love complex UI problems: editors, scheduling, drag-and-drop workflows, design
 
 ### 💳 Financer — Personal finance dashboard
 - Plaid (sandbox) integration, subscriptions, analytics dashboards, CSV import/export  
-➡️ Live: https://vmskyi-portfolio.vercel.app  
-➡️ Repo: https://github.com/nothing9537
+➡️ Live: https://financer-beta.vercel.app  
+➡️ Repo: https://github.com/nothing9537/financer
 
 ### 💬 Real-time Messenger — Slack-style chat
 - Threads/replies, reactions, presence, RBAC/workspaces, real-time updates  
-➡️ Live: https://vmskyi-portfolio.vercel.app  
-➡️ Repo: https://github.com/nothing9537
+➡️ Live: https://slack-clone-tau-ten.vercel.app
+➡️ Repo: https://github.com/nothing9537/slack-clone
 
 ---
 
