@@ -33,7 +33,7 @@ I love complex UI problems: editors, scheduling, drag-and-drop workflows, design
 
 ### 💬 Real-time Messenger — Slack-style chat
 - Threads/replies, reactions, presence, RBAC/workspaces, real-time updates  
-➡️ Live: https://slack-clone-tau-ten.vercel.app
+➡️ Live: https://slack-clone-tau-ten.vercel.app  
 ➡️ Repo: https://github.com/nothing9537/slack-clone
 
 ---
